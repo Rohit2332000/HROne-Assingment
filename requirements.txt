@@ -1,0 +1,10 @@
+fastapi
+uvicorn[standard]
+pymongo
+pydantic
+pydantic-settings
+python-dotenv
+tzdata
+pytest
+requests
+httpx
